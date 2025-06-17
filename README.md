@@ -1,7 +1,7 @@
 # 📋Project Description
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
-### 📝Learning Objectives
+## 📝Learning Objectives
 By completing this project, I was able to:
 - Learn to implement responsive UI/UX designs <br>
 - Understand how to structure a complex web application
@@ -9,13 +9,13 @@ By completing this project, I was able to:
 - Develop skills in component-based frontend architecture
 - Learn best practices for web application development
 
-### 🛠Tech Stack
+## 🛠Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (React or similar framework)
 - **Version** Control: Git and GitHub
 - **Design Tools**: Figma for UI/UX design
 
-### 📌Requirements
+## 📌Requirements
 
 **1. Project Initialization**
 - Set up GitHub repository with proper documentation
@@ -36,7 +36,7 @@ By completing this project, I was able to:
 - Planned reusable UI components
 - Documented component architecture
 
-### 💡Best Practices Adopted
+## 💡Best Practices Adopted
 
 - **Code Organization:** Maintained clean, modular code structure
 - **Verersion Control:** Used feature branches and meaningful commit messages
@@ -45,7 +45,7 @@ By completing this project, I was able to:
 - **Documentation:** Kept all project documentation updated
 - **Testing:** Implemented unit and integration tests
 
-### 🎨  UI/UX Design Planning
+## 🎨  UI/UX Design Planning
 **Design Goals:**
 - Created intuitive booking flow
 - Maintained visual consistency
@@ -58,7 +58,7 @@ By completing this project, I was able to:
 - Secure checkout process
 - User authentication
 
-### 📡Figma Design Specifications
+## 📡Figma Design Specifications
 **Color Styles:**
 
 - Primary: #FF5A5F
@@ -73,8 +73,8 @@ By completing this project, I was able to:
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
 
-### 🚨  UI Component Patterns
-#### Planned Components
+## 🚨  UI Component Patterns
+### Planned Components
 1. **Navbar**
    - Logo
    - Search bar
