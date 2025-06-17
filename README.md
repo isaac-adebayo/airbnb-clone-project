@@ -3,7 +3,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ## 📝Learning Objectives
 By completing this project, I was able to:
-- Learn to implement responsive UI/UX designs <br>
+- Learn to implement responsive UI/UX designs 
 - Understand how to structure a complex web application
 - Practice working in a team with defined roles
 - Develop skills in component-based frontend architecture
@@ -58,6 +58,11 @@ By completing this project, I was able to:
 - Secure checkout process
 - User authentication
 
+## 📖 Primary Pages
+1. **Propery Listing View:** - Grid display of available properties with filters
+2. **Listing Detailed View:** - Complete property details with images and booking form.
+3. **Simple Checkout View:** - Streamlined payment and booking confirmation
+
 ## 📡Figma Design Specifications
 **Color Styles:**
 
@@ -72,6 +77,16 @@ By completing this project, I was able to:
 - Primary Font: Circular, Medium (500), 16px
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
+
+## 👨‍💻 Project Roles and Responsibilities
+1. **Project Manager:** - Oversees timeline, coordinates team, manages deliverable
+2. **Frontend Developer:** - Implements UI components, ensures responsive design
+3. **Backend Developers:** - Builds APIs, manages database, implements business logic
+4. **Designers:** - Creates mockups, maintain design system, ensures UX quality
+5. **QA/Testers:** -  Writes test cases, performs testing, reports bugs.
+6. **DevOps Engineers:** - Manages deployment, CI/CD pipeline, server infrastructure
+7. **Product Owner:** - Defines requirements, prioritizes features, represents stakeholders
+8. **Scrum Master:** - Fascilitates agile processes, removes blockers, organizes meetings
 
 ## 🚨  UI Component Patterns
 ### Planned Components
