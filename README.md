@@ -63,6 +63,9 @@ By completing this project, I was able to:
 2. **Listing Detailed View:** - Complete property details with images and booking form.
 3. **Simple Checkout View:** - Streamlined payment and booking confirmation
 
+## 💁 Importance of User-friendly Design
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+
 ## 📡Figma Design Specifications
 **Color Styles:**
 
@@ -78,7 +81,7 @@ By completing this project, I was able to:
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
 
-## 👨‍💻 Project Roles and Responsibilities
+## 👮 Project Roles and Responsibilities
 1. **Project Manager:** - Oversees timeline, coordinates team, manages deliverable
 2. **Frontend Developer:** - Implements UI components, ensures responsive design
 3. **Backend Developers:** - Builds APIs, manages database, implements business logic
